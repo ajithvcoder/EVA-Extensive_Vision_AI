@@ -4,8 +4,6 @@ Duration : 9 months* (I did for 1.2 years)
 
 Syllabus : [Details](https://theschoolof.ai/#details)
 
-Note: Syllabus changes in accordance with the update in reasearch and industry side . its like training a nerual network every batch is trained to achieve greater accuracy/generalization .
-
 **Contents**
 
 - [Assignments](#Assignments)      
@@ -13,7 +11,6 @@ Note: Syllabus changes in accordance with the update in reasearch and industry s
    * [Phase 2 - Reinforcement Learning](#Phase-2---Reinforcement-Learning)
 
 - [Result](#Result)
-- [Motivation for Computer Vision](#Motivation-for-Computer-Vision)
 - [Credits](#Credits)
 
 
